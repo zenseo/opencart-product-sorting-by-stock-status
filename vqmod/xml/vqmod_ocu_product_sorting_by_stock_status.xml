@@ -9,17 +9,17 @@
  http://www.gnu.org/copyleft/gpl.html
  If you did not receive a copy of the license and are unable to
  obtain it through the world-wide-web, please send an email
- to license@opencart.ua so we can send you a copy immediately.
+ to license@opencart-ukraine.tumblr.com so we can send you a copy immediately.
 
  @category   OpenCart
  @package    OCU Product Sorting by Stock Status
- @copyright  Copyright (c) 2011 Eugene Kuligin by OpenCart Ukrainian Community (http://opencart.ua)
+ @copyright  Copyright (c) 2011 Eugene Lifescale by OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
  @license    http://www.gnu.org/copyleft/gpl.html GNU General Public License, Version 3
 
 
  @category   OpenCart
  @package    OCU Product Sorting by Stock Status
- @copyright  Copyright (c) 2011 Eugene Kuligin by OpenCart Ukrainian Community (http://opencart.ua)
+ @copyright  Copyright (c) 2011 Eugene Lifescale by OpenCart Ukrainian Community (http://opencart-ukraine.tumblr.com)
  @license    http://www.gnu.org/copyleft/gpl.html GNU General Public License, Version 3
 
 -->
@@ -30,9 +30,9 @@
     <id>OCU Product Sorting by Stock Status</id>
     <version>1.0</version>
     <vqmver>2.1.5</vqmver>
-    <author>Eugene Kuligin</author>
-    <website>http://www.opencart.ua</website>
-    <email>support@opencart.ua</email>
+    <author>Eugene Lifescale</author>
+    <website>http://opencart-ukraine.tumblr.com</website>
+    <email>support@opencart-ukraine.tumblr.com</email>
 
     <!-- catalog:start -->
 
